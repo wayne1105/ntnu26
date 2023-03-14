@@ -1,3 +1,3 @@
 #Gitmind
-https://gitmind.com/app/docs/mbinlw5g
+#https://gitmind.com/app/docs/mbinlw5g
 
