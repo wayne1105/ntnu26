@@ -1,7 +1,7 @@
 # **Gitmind**
 ### https://gitmind.com/app/docs/mbinlw5g
 # **金融(保險)知識**
-* ### https://youtube.com/playlist?list=PL9NZYNTi48oAD6_uj2aNLK4zFmpKZ5sxj
+* ### [Cheap教你金融科技力](https://youtube.com/playlist?list=PL9NZYNTi48oAD6_uj2aNLK4zFmpKZ5sxj)
 # **python機器學習及數據分析**
 * ### python : [scrimba免費課程](https://scrimba.com/learn/python)
 * ### scikit-learn : [機器學習課程](https://app.datacamp.com/)
